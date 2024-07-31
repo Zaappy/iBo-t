@@ -2,6 +2,8 @@
 ![iBot Banner: iBot by ProtoZappy](./images/iBotBanner.png)
 Developed with [discord.js](https://discord.js.org) for a personal Discord server
 
+**⚠️\*\*Moved to [InternetBuddiesOrg/iBot](https://github.com/InternetBuddiesOrg/iBot)\*\*⚠️**
+
 ### Features
 
 - [x] Daily terms via Word of the Day
